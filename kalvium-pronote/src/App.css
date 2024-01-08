@@ -1,0 +1,14 @@
+body{
+  background-color: black;
+}
+
+.background{
+  background-color: aquamarine;
+  width: 50vw;
+  height: 70vh;
+}
+
+.align{
+  display: flex;
+  justify-content: center;
+}
